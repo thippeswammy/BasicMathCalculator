@@ -1,7 +1,6 @@
 /**
  * @author thippeswammy
  */
-package com.thippeswamy.app.projectCompleted.comp;
 
 import javax.swing.*;
 import java.awt.*;
